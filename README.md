@@ -6,5 +6,4 @@
 
 К сожалению, у меня нет возомжности протестировать приложение на iOS, поэтому могут быть трудности с на данной платформе.
 
-![](http://i.imgur.com/AUjKLxi.png)
-![](http://i.imgur.com/27ExyBt.png)
+![](http://i.imgur.com/XwsyYJx.png)
